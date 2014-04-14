@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical">
+    <style android:name="StyledIndicators" android:parent="@android:style/Theme.Light">
+        <item android:name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+    </style>
+
+    <style android:name="CustomTabPageIndicator" android:parent="Widget.TabPageIndicator">
+        <item android:name="android:background">@drawable/tab_indicator</item>
+        <item android:name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item android:name="android:textSize">14sp</item>
+        <item android:name="android:dividerPadding">8dp</item>
+        <item android:name="android:showDividers">middle</item>
+        <item android:name="android:paddingLeft">10dp</item>
+        <item android:name="android:paddingRight">10dp</item>
+        <item android:name="android:fadingEdge">horizontal</item>
+        <item android:name="android:fadingEdgeLength">8dp</item>
+    </style>
+
+    <style android:name="CustomTabPageIndicator.Text" android:parent="android:TextAppearance.Medium">
+        <item android:name="android:typeface">monospace</item>
+        <item android:name="android:textColor">@drawable/selector_tabtext</item>
+    </style>
+</LinearLayout>-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical" >
+
+    <TextView
+            android:id="@+id/textview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textSize="18sp"
+            android:gravity="center" />
+
+</LinearLayout>

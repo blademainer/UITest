@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.kevinsawicki:wishlist:apklib:0.9">
+    <CLASSES>
+      <root url="jar://D:/software/apache-maven-3.1.1/repository/com/github/kevinsawicki/wishlist/0.9/wishlist-0.9.apklib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/software/apache-maven-3.1.1/repository/com/github/kevinsawicki/wishlist/0.9/wishlist-0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/software/apache-maven-3.1.1/repository/com/github/kevinsawicki/wishlist/0.9/wishlist-0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
